@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d81c0e091adfb44b8fb4a96674a0470, type: 3}
+  m_Name: Level_1
+  m_EditorClassIdentifier: 
+  levelName: 1
+  levelNumber: 1
+  scenarioImage: {fileID: 21300000, guid: e741205f88955fe41a515a2123f2d974, type: 3}
+  words:
+  - Water
+  - Medicine
+  correctWordIndex: 1
+  dialogueText: the monm is sick
+  goodEndingImage: {fileID: 21300000, guid: f009adaac0a152e42af2da49be2b9095, type: 3}
+  badEndingImage: {fileID: 21300000, guid: 34297dd881ecab543a64816a3fec5fa5, type: 3}

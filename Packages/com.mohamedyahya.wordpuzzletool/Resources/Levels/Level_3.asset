@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d81c0e091adfb44b8fb4a96674a0470, type: 3}
+  m_Name: Level_3
+  m_EditorClassIdentifier: 
+  levelName: 3
+  levelNumber: 3
+  scenarioImage: {fileID: 21300000, guid: a129400ac19145946ad41bc60eaa7a60, type: 3}
+  words:
+  - Sunglasses
+  - Umbrella
+  correctWordIndex: 1
+  dialogueText: rainning
+  goodEndingImage: {fileID: 21300000, guid: 264d0c19bf892a84a9c626c5d848fcbd, type: 3}
+  badEndingImage: {fileID: 21300000, guid: 81ee6f66506823643ba6c5db21a0e3a6, type: 3}

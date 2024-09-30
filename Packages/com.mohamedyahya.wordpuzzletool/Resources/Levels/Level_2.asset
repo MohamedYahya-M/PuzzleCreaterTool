@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d81c0e091adfb44b8fb4a96674a0470, type: 3}
+  m_Name: Level_2
+  m_EditorClassIdentifier: 
+  levelName: 2
+  levelNumber: 2
+  scenarioImage: {fileID: 21300000, guid: 4896061190e374e48ae4cc67ff3644c3, type: 3}
+  words:
+  - Apple
+  - Meat
+  correctWordIndex: 0
+  dialogueText: the boy hungry
+  goodEndingImage: {fileID: 21300000, guid: 3689bc8a190e85446825faf5a00b3230, type: 3}
+  badEndingImage: {fileID: 21300000, guid: 797f96a7320f6f84fbb5ac84c307ec71, type: 3}

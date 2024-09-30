@@ -1,0 +1,20 @@
+{
+  "name": "com.mohamedyahya.wordpuzzletool",
+  "version": "1.0.0",
+  "displayName": "Word Puzzle Tool",
+  "description": "A tool for generating and playing word puzzle games in Unity.",
+  "unity": "2022.3", 
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6"
+  },
+  "keywords": [
+    "word",
+    "puzzle",
+    "level",
+    "generator"
+  ],
+  "author": {
+    "name": "Mohamed Yahya",
+    "email": "yahya23mohamed@gmail.com"
+  }
+}
